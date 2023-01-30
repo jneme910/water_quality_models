@@ -10,3 +10,5 @@ List of Water Quality Models
 
 Origional Code
 https://alm.engr.colostate.edu/cb/scm/dir/9785/default
+
+Note: Two documents are added to the docs folder. CART documention and CSU document metadata for the models. 
