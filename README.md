@@ -1,4 +1,4 @@
-# water_quality_models
+# Water Quality Models
 
 List of Water Quality Models
 
