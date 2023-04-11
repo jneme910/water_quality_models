@@ -1,6 +1,3 @@
-remote_theme: midnight
-
-
 # Water Quality Models
 
 List of Water Quality Models
